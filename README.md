@@ -1,3 +1,7 @@
+Rebuild [this project](https://replit.com/@TaylaPhillips/lite-brite-starter-32823)
+
+[lesson](https://try.turing.edu/popup-lite-brite/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
